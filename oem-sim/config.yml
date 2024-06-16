@@ -1,0 +1,5 @@
+mongodb:
+  connection_string: mongodb+srv://christophe2bu:3RUGZqpo7Mq3IiNZ@cluster0.iawdofs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+frequency:
+  frequency: 5
+  max_peak: 10
